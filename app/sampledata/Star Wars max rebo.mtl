@@ -1,0 +1,60 @@
+newmtl BLUE_MATTE0
+Ka 0 0 0
+Ns 1.34986
+Ks 1 1 1
+Kd 0.0901961 0.12549 0.839216
+map_Kd BLUE_MATTE0.jpg
+newmtl Metallic_Varnish
+Ka 0 0 0
+Ns 6.04965
+Ks 0.733333 0.92549 1
+Kd 0 0 0.0784314
+map_Kd Metallic_Varnish_1.jpg
+newmtl BLUE_MATTE1
+Ka 0 0 0
+Ns 1.34986
+Ks 1 1 1
+Kd 0.0901961 0.12549 0.839216
+map_Kd BLUE_MATTE1_2.jpg
+newmtl BLUE_MATTE2
+Ka 0 0 0
+Ns 1.34986
+Ks 1 1 1
+Kd 0.0901961 0.12549 0.839216
+map_Kd BLUE_MATTE2_3.jpg
+newmtl BLUE_MATTE3
+Ka 0 0 0
+Ns 1.34986
+Ks 1 1 1
+Kd 0.0901961 0.12549 0.839216
+map_Kd BLUE_MATTE3_4.jpg
+newmtl BLUE_MATTE4
+Ka 0 0 0
+Ns 1.34986
+Ks 1 1 1
+Kd 0.0901961 0.12549 0.839216
+map_Kd BLUE_MATTE4_5.jpg
+newmtl BLUE_MATTE5
+Ka 0 0 0
+Ns 1.34986
+Ks 1 1 1
+Kd 0.0901961 0.12549 0.839216
+map_Kd BLUE_MATTE5_6.jpg
+newmtl BLUE_MATTE6
+Ka 0 0 0
+Ns 1.34986
+Ks 1 1 1
+Kd 0.0901961 0.12549 0.839216
+map_Kd BLUE_MATTE6_7.jpg
+newmtl BLUE_MATTE7
+Ka 0 0 0
+Ns 1.34986
+Ks 1 1 1
+Kd 0.0901961 0.12549 0.839216
+map_Kd BLUE_MATTE7_8.jpg
+newmtl White_porcelaine
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.639216 0.654902 0.752941
+map_Kd White_porcelaine_9.jpg
